@@ -1,5 +1,5 @@
 # Touch-Typing-Tutor
-Repository for my Medium post: [_The touch-typing entanglement_]("https://medium.com/p/b80eacd10e26/edit")
+Repository for my Medium post: [The touch-typing entanglement]("https://medium.com/p/b80eacd10e26/edit")
 
 ### Quick guide to use this repo
 
