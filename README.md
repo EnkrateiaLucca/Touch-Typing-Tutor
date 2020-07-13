@@ -11,13 +11,14 @@ https://www.python.org/downloads/
 pip install -r requirements.txt
 ```
 
-#### 3. Modify the dataset.txt file to have the relevant links for your learning goals. (one link per line)
+#### 3. The scores.csv file will be saved on the current folder (storing your performance data)
 
 #### 4. Run this on terminal
 ```
-python learn_this.py
+python touch_typing_tutor.py
 ```
 
 ### Final Remark
-The data for your learning sessions will be stored in the sessions folder (which will be created when you run the code for the first time)
+Have a good typing practice!
+
 
