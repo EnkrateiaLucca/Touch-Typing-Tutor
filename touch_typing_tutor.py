@@ -113,6 +113,7 @@ class TypingTutor(tk.Frame):
                 self.timer[0] = 60      #reset to 60 seconds
                 messagebox.showinfo('Message', 'Your score was: {}WPM'.format(self.correct_words))
                 save = messagebox.askquestion("Would you like to save your progress?")
+                self.resetTime()
                 if save=="yes":
                     print("Saving file")
                     if os.path.isfile("scores.csv"):
