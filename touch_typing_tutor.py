@@ -133,7 +133,7 @@ class TypingTutor(tk.Frame):
 
     def start(self):
         self.correct_words = 0
-        self.session_words = random.sample(self.words, 500)
+        self.session_words = random.sample(self.words[0:2000], 500)
         self.running = True
         self.counter = 0
         self.current_words = self.session_words[self.counter:self.counter+6]
